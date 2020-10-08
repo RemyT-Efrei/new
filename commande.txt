@@ -1,0 +1,31 @@
+git init : creation du fichier dépot caché.git
+git status : affichage du status de notre depot
+git add <nom du fichier> : ajout du fichier
+git commit -m"<phrase"> : phrase de MAJ
+
+
+ls : voir les fichiers
+cd <nom> : deplacement
+
+
+les branches
+
+git branch <nom de la nouvelle branche>
+git checkout <nom de la branche> : changement de branche
+git branch -D <nom de la branche> : suppression de la branche
+
+
+Créer un nouveau dépots:
+
+sur git hub: github/new
+url sur github
+
+
+git remote add <nom> <url>
+git remote -v : voir les depots
+git push <nom> <nom de la branche> : envoie sur github
+
+
+
+git clone <url> <nom du nouveau dossier> : copie tous les fichiers dans un nouveau depots
+
